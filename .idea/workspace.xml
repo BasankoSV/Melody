@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f78ae03b-c7b8-4bc5-bff0-dea16f333dbc" name="Changes" comment="Add fonts files.">
+    <list default="true" id="f78ae03b-c7b8-4bc5-bff0-dea16f333dbc" name="Changes" comment="Renamed script.js - main.js, added jquery.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +25,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -65,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1629260055110</updated>
       <workItem from="1629260057395" duration="6090000" />
-      <workItem from="1629283931129" duration="9395000" />
+      <workItem from="1629283931129" duration="18193000" />
     </task>
     <task id="LOCAL-00001" summary="Add script.js">
       <created>1629282088612</created>
@@ -95,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629294371432</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Renamed script.js - main.js, added jquery.">
+      <created>1629350362056</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1629350362056</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,6 +125,7 @@
     <MESSAGE value="Add js/script.js" />
     <MESSAGE value="Add fonts, images, html, css." />
     <MESSAGE value="Add fonts files." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add fonts files." />
+    <MESSAGE value="Renamed script.js - main.js, added jquery." />
+    <option name="LAST_COMMIT_MESSAGE" value="Renamed script.js - main.js, added jquery." />
   </component>
 </project>
