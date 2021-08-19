@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f78ae03b-c7b8-4bc5-bff0-dea16f333dbc" name="Changes" comment="Renamed script.js - main.js, added jquery.">
-      <change afterPath="$PROJECT_DIR$/src/js/jquery_script.js" afterDir="false" />
+    <list default="true" id="f78ae03b-c7b8-4bc5-bff0-dea16f333dbc" name="Changes" comment="Переписал скрипт на чистом js, файл main.js.&#10;Скрипт на jquery переименовал на jquery_script.js и оставил.&#10;В index.html закомментировал jquery и jquery_script.js.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/main.js" afterDir="false" />
@@ -65,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1629260055110</updated>
       <workItem from="1629260057395" duration="6090000" />
-      <workItem from="1629283931129" duration="18686000" />
+      <workItem from="1629283931129" duration="19328000" />
     </task>
     <task id="LOCAL-00001" summary="Add script.js">
       <created>1629282088612</created>
@@ -109,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629361747179</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Переписал скрипт на чистом js, файл main.js.&#10;Скрипт на jquery переименовал на jquery_script.js и оставил.&#10;В index.html закомментировал jquery и jquery_script.js.">
+      <created>1629362477266</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1629362477266</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,6 +140,7 @@
     <MESSAGE value="Add fonts, images, html, css." />
     <MESSAGE value="Add fonts files." />
     <MESSAGE value="Renamed script.js - main.js, added jquery." />
-    <option name="LAST_COMMIT_MESSAGE" value="Renamed script.js - main.js, added jquery." />
+    <MESSAGE value="Переписал скрипт на чистом js, файл main.js.&#10;Скрипт на jquery переименовал на jquery_script.js и оставил.&#10;В index.html закомментировал jquery и jquery_script.js." />
+    <option name="LAST_COMMIT_MESSAGE" value="Переписал скрипт на чистом js, файл main.js.&#10;Скрипт на jquery переименовал на jquery_script.js и оставил.&#10;В index.html закомментировал jquery и jquery_script.js." />
   </component>
 </project>

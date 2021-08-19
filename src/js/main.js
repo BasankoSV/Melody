@@ -8,7 +8,7 @@ const zero = num => {
   else return num.toString()
 }
 const arrow = (btn, sign, condition) => {
-  btn.addEventListener('click', e => {
+  btn.addEventListener('click', () => {
     if (eval(condition)) {
       sign === '+' ? currentFloor++ : currentFloor--
       counter.textContent = zero(currentFloor)
