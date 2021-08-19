@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f78ae03b-c7b8-4bc5-bff0-dea16f333dbc" name="Changes" comment="Renamed script.js - main.js, added jquery.">
+      <change afterPath="$PROJECT_DIR$/src/js/jquery_script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/main.js" afterDir="false" />
@@ -64,7 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1629260055110</updated>
       <workItem from="1629260057395" duration="6090000" />
-      <workItem from="1629283931129" duration="18193000" />
+      <workItem from="1629283931129" duration="18686000" />
     </task>
     <task id="LOCAL-00001" summary="Add script.js">
       <created>1629282088612</created>
@@ -101,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629350362056</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Renamed script.js - main.js, added jquery.">
+      <created>1629361747179</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1629361747179</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

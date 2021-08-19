@@ -21,13 +21,11 @@ const arrow = (btn, sign, condition) => {
 }
 
 let currentFloor = 2
-
 floorPath.forEach(floor => {
   floor.addEventListener('mouseover', e => {
     floorPath.forEach(floor => floor.classList.remove("current-floor"))
     currentFloor = counter.textContent = e.target.dataset.floor
   })
 })
-
 arrow(btnCounterUp, '+', 'currentFloor < 18')
 arrow(btnCounterDown, '-', 'currentFloor > 2')
