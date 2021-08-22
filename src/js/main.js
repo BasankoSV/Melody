@@ -14,7 +14,7 @@ const zero = num => {
 }
 const arrow = (btn, sign, condition) => {
   btn.addEventListener('click', () => {
-    if (eval(condition)) {
+    if (eval(condition)) {  //понимаю, не красиво использовать eval, но как сделать по другому, не знаю.
       sign === '+' ? currentFloor++ : currentFloor--
       for (let i = 0; i < counter.length; i++) {
         counter[i].textContent = zero(currentFloor)
